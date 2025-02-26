@@ -30,14 +30,15 @@ const About = () => {
           <div>
             {/* Thay đổi URL bên dưới thành URL hình ảnh của bạn */}
             <img
-              src="/public/avt.jpg"
+              src="avt.jpg"
               alt="Your profile"
               className="rounded-lg shadow-lg w-full h-[400px] object-cover"
             />
           </div>
           <div className="space-y-4">
+            <h1>GOAL</h1>
             <p className="text-gray-600">
-              Hello! I'm a passionate full-stack developer with a love for creating beautiful and
+              Hello! I'm a passionate front-end developer with a love for creating beautiful and
               functional web applications. With experience in modern web technologies, I specialize in
               building responsive and user-friendly interfaces.
             </p>
@@ -46,6 +47,11 @@ const About = () => {
               on delivering high-quality solutions. I enjoy tackling complex problems and turning ideas
               into reality through code.
             </p>
+            <h2>EDUCATION</h2>
+            <p className="text-gray-600">
+              I'm learning from the University of Information Technology with a degree in Computer Science. I have
+              completed several online courses to further expand my knowledge and skills in web
+              development.</p>
             <div className="pt-4">
               <a
                 href="#contact"
