@@ -49,9 +49,8 @@ const About = () => {
             </p>
             <h2>EDUCATION</h2>
             <p className="text-gray-600">
-              I'm learning from the University of Information Technology with a degree in Computer Science. I have
-              completed several online courses to further expand my knowledge and skills in web
-              development.</p>
+              I'm learning at the University of Information Technology with a major in Computer Science. I have
+              completed several courses to further expand my knowledge and skills in web development.</p>
             <div className="pt-4">
               <a
                 href="#contact"
