@@ -6,13 +6,13 @@ const projects = [
     title: "Screening Movie Website (Personal Project) - Full Stack Developer",
     description: "Build an online movie website with movie search features, movie genre classification, favorites list, and reviews. Integrate an API from YouTube to get movie information and optimize performance and user experience.",
     image: "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d",
-    tags: ["React", "Spring Boot (Java)", "MySQL"],
+    tags: ["ReactJS", "Spring Boot (Java)", "MySQL"],
   },
   {
     title: "Meal Time Website - Frontend Developer (Leader) - Group Project",
     description: "Carry out a project to develop a selling food web application within the framework of the course. Participate in all project phases, from planning and user interface design to application deployment and testing.",
     image: "https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7",
-    tags: ["NodeJS", "React", "MySQL"],
+    tags: ["NodeJS", "ReactJS", "MySQL"],
   },
   /*{
     title: "Task Management App",
