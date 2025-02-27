@@ -25,7 +25,7 @@ const Hero = () => {
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-b from-white to-gray-50">
       <div ref={containerRef} className="container mx-auto px-4 py-32 text-center">
         <span className="text-gray-600 text-sm tracking-wider uppercase mb-4 inline-block">
-          Welcome to Nguyen Duc portfolio
+          Welcome to Nguyen Duc Nghia portfolio
         </span>
         <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold mb-6 leading-tight">
           Front-end Developer 
