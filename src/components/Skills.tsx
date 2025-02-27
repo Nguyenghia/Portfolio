@@ -3,11 +3,11 @@ import { useEffect, useRef } from 'react';
 
 const skills = [
   "React",
-  "TypeScript",
-  "Node.js", 
-  "CSS/Tailwind",
-  "MongoDB",
-  "AWS"
+  "HTML/CSS/JavaScript",
+  "Java", 
+  "C++",
+  "MySQL",
+  "Git"
 ];
 
 const Skills = () => {

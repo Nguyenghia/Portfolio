@@ -3,16 +3,16 @@ import { useEffect, useRef } from 'react';
 
 const projects = [
   {
-    title: "E-commerce Platform",
-    description: "A full-featured online shopping platform with real-time inventory management.",
+    title: "Screening Movie Website (Personal Project) - Full Stack Developer",
+    description: "A movie app that allows users to search for movies and view details.",
     image: "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d",
-    tags: ["React", "Node.js", "MongoDB"],
+    tags: ["React", "Spring Boot (Java)", "MySQL"],
   },
   {
-    title: "Social Media Dashboard",
-    description: "Analytics dashboard for social media performance tracking.",
+    title: "Meal Time Website - Frontend Developer (Leader) - Group Project",
+    description: "A meal app that allows users to search for recipes and view details.",
     image: "https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7",
-    tags: ["TypeScript", "React", "Chart.js"],
+    tags: ["NodeJS", "React", "MySQL"],
   },
   {
     title: "Task Management App",
