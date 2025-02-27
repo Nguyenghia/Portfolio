@@ -4,22 +4,22 @@ import { useEffect, useRef } from 'react';
 const projects = [
   {
     title: "Screening Movie Website (Personal Project) - Full Stack Developer",
-    description: "A movie app that allows users to search for movies and view details.",
+    description: "Build an online movie website with movie search features, movie genre classification, favorites list, and reviews. Integrate an API from YouTube to get movie information and optimize performance and user experience.",
     image: "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d",
     tags: ["React", "Spring Boot (Java)", "MySQL"],
   },
   {
     title: "Meal Time Website - Frontend Developer (Leader) - Group Project",
-    description: "A meal app that allows users to search for recipes and view details.",
+    description: "Carry out a project to develop a selling food web application within the framework of the course. Participate in all project phases, from planning and user interface design to application deployment and testing.",
     image: "https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7",
     tags: ["NodeJS", "React", "MySQL"],
   },
-  {
+  /*{
     title: "Task Management App",
     description: "Collaborative task management tool with real-time updates.",
     image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158",
     tags: ["React", "Firebase", "Tailwind"],
-  },
+  },*/
 ];
 
 const Projects = () => {
